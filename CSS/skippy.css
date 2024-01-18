@@ -1,53 +1,54 @@
 .corner {
-	height:50px;
+	height: 50px;
 	width: 50px;
 	border: 1px solid black; 
 }
 
 .corner:hover {
-	background-color:#99D699;
+	background-color: #99D699;
 }
 
-.x      {
-	height:50px;
+.x {
+	height: 50px;
 	width: 250px;
 	border: 1px solid black; 
 }
 
 .x:hover {
-	background-color:#FFFFAD;
+	background-color: #FFFFAD;
 }
 
-.y      {
-	height:250px;
+.y {
+	height: 250px;
 	width: 50px;
 	border: 1px solid black; 
 }
 
 .y:hover {
-	background-color:#99ADEB;
+	background-color: #99ADEB;
 }
 
 .center {
-	height:250px;
+	height: 250px;
 	width: 250px;
 	background-image:url(http://kannadigaworld.com/wp-content/uploads/2013/07/prunes1.jpg);
 }
 
 table#pageTble {
+	height: 300px;
 	border: 1px solid black; 
 }
 
 div#menu {
-	height:280px;
+	height: 290px;
 	width: 200px;
-	padding-bottom: 100px;
-	background-color:#F2F2F2;
+	padding-bottom: 85px;
+	background-color: #F2F2F2;
 	box-shadow: 2px 2px 2px #CCC;
 }
 
 div#menu input#cntrlBtn {
-	height:40px;
+	height: 40px;
 	width: 200px;
 	color: green;
 	font-weight: bold;
